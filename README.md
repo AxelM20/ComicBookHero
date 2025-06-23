@@ -8,7 +8,7 @@
  ----------------------------------
  1. Affiliation.java
  ----------------------------------
- - This file defines an enum called `Affiliation`.
+ - This file defines an enum called Affiliation.
  - It includes predefined hero teams:
       AVENGERS, JUSTICE_LEAGUE, X_MEN, FANTASTIC_FOUR
  - Using an enum ensures consistent and valid team names for all heroes.
