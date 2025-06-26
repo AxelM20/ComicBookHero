@@ -34,8 +34,8 @@ public class Main {
         manager.displayHeroes();
 
         // Add a new hero
-        manager.addHero(new Hero("Invisible Woman", 88, Affiliation.FANTASTIC_FOUR));
-        System.out.println("\nAfter Adding Invisible Woman:");
+        manager.addHero(new Hero("Wonder Woman", 88, Affiliation.JUSTICE_LEAGUE));
+        System.out.println("\nAfter Adding Wonder Woman:");
         manager.displayHeroes();
 
         // Display in 2D array format
