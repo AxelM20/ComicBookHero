@@ -6,7 +6,7 @@ public class Main {
         manager.addHero(new Hero("Spider-Man", 85, Affiliation.AVENGERS));
         manager.addHero(new Hero("Batman", 80, Affiliation.JUSTICE_LEAGUE));
         manager.addHero(new Hero("Wolverine", 90, Affiliation.X_MEN));
-        manager.addHero(new Hero("Invisible Woman", 95, Affiliation.FANTASTIC_FOUR));
+        manager.addHero(new Hero("Invisible Woman",88 , Affiliation.FANTASTIC_FOUR));
 
         // Display original list
         System.out.println("Original List:");
@@ -22,7 +22,7 @@ public class Main {
         manager.addHero(new Hero("Spider-Man", 85, Affiliation.AVENGERS));
         manager.addHero(new Hero("Batman", 80, Affiliation.JUSTICE_LEAGUE));
         manager.addHero(new Hero("Wolverine", 90, Affiliation.X_MEN));
-        manager.addHero(new Hero("Wonder Woman", 95, Affiliation.JUSTICE_LEAGUE));
+        manager.addHero(new Hero("Invisible Woman", 88, Affiliation.FANTASTIC_FOUR));
 
         manager.insertionSortByPower();
         System.out.println("\nAfter Insertion Sort:");
