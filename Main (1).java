@@ -34,7 +34,7 @@ public class Main {
         manager.displayHeroes();
 
         // Add a new hero
-        manager.addHero(new Hero("Wonder Woman", 88, Affiliation.JUSTICE_LEAGUE));
+        manager.addHero(new Hero("Wonder Woman", 95, Affiliation.JUSTICE_LEAGUE));
         System.out.println("\nAfter Adding Wonder Woman:");
         manager.displayHeroes();
 
