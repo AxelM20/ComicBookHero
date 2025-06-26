@@ -50,7 +50,7 @@
      5. Re-adds the heroes to restore the original order.
      6. Applies Insertion Sort and prints the sorted list.
      7. Removes a hero (e.g., "Batman").
-     8. Adds a new hero (e.g., "Invisible Woman").
+     8. Adds a new hero (e.g., "Wonder Woman").
      9. Displays the updated list.
      10. Displays the hero list in a 2D array format.
 
